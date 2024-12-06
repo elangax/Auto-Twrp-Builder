@@ -14,7 +14,7 @@ on:
       MANIFEST_BRANCH:
         description: 'MANIFEST_BRANCH'
         required: true
-        default: 'twrp-2.8.7.0'
+        default: 'twrp-4.4-deprecated'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
